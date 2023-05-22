@@ -7,7 +7,7 @@ Cognet is dedicated to creating and providing proxies for individuals, with a fo
 
 
 
-#:zap:Contribution guidelines 
+# :zap:Contribution guidelines 
 # Contributing
 Contributing is simple:
 
