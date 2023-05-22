@@ -30,5 +30,5 @@ All resources are on the docs
 
 Did you know Cognet was created in 2 weeks?
 
-🧙 Remember, you can do mighty things with the power of Cognet!
+🧙 Remember, you can do mighty things with the power of Cognet!<br>
 join us now!
