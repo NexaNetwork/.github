@@ -23,7 +23,12 @@ If you want more information on how to contribute, head over to our Discord ( Di
 Thank you to all our contributors and supporters!
 
 # 👩‍💻 Docs & resources 
+All resources are on the docs
+<a href="https://cognet.vercel.app/docs">Docs Page</a>
 
-🍿 Fun facts - what does your team eat for breakfast?
+# 🍿 Fun facts 
+
+Did you know Cognet was created in 2 weeks?
+
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 =
