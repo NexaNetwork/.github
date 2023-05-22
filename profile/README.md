@@ -21,7 +21,9 @@ https://github.com/Cognet-Network/Cognet.git
 If you want more information on how to contribute, head over to our Discord ( Discord HERE )
 
 Thank you to all our contributors and supporters!
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
+# 👩‍💻 Docs & resources 
+
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 =
