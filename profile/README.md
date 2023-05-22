@@ -3,11 +3,25 @@
 
 # 🙋‍About
 
+Cognet is dedicated to creating and providing proxies for individuals, with a focus on the end of Internet censorship. Our services are secure and reliable, with users able to access the Internet without restrictions. Through our mission, we strive to make the world a better place by enabling people to access the Internet without encumbrance.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+
+#:zap:Contribution guidelines 
+# Contributing
+Contributing is simple:
+
+1. Git Clone the project
+```
+https://github.com/Cognet-Network/Cognet.git
+```
+2. Navigate to the page you want to contribute to, then edit the page as you wish
+3. Create a request to add these changes.
+4. If they are accepted, you are done
+
+If you want more information on how to contribute, head over to our Discord ( Discord HERE )
+
+Thank you to all our contributors and supporters!
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
