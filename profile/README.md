@@ -8,7 +8,6 @@ Cognet is dedicated to creating and providing proxies for individuals, with a fo
 
 
 # :zap:Contribution guidelines 
-# Contributing
 Contributing is simple:
 
 1. Git Clone the project
