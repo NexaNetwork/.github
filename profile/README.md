@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<img src="https://github.com/Cognet-Network">
 # 🙋‍About
 
 Nexa is dedicated to creating and providing proxies for individuals, with a focus on the end of Internet censorship. Our services are secure and reliable, with users able to access the Internet without restrictions. Through our mission, we strive to make the world a better place by enabling people to access the Internet without encumbrance.
